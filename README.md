@@ -9,13 +9,13 @@ permanece aceso.
     + #### Diagrama de blocos do sistema:
 
       <p align="center">
-        <img width="540" height="320" src="Images/system_block_diagram.PNG">
+        <img width="540" height="320" src="system_block_diagram.PNG">
       </p>
 
     + #### Diagrama esquemático do sistema:
     
     <p align="center">
-     <img width="540" height="320" src="Images/colorful_schematic_diagram.PNG">
+     <img width="540" height="320" src="colorful_schematic_diagram.PNG">
      </p>
      
 + ## Interface
