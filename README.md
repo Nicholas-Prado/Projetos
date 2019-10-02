@@ -9,13 +9,13 @@ permanece aceso.
     + #### Diagrama de blocos do sistema:
 
       <p align="center">
-        <img width="540" height="320" src="diagrams/system_block_diagram.PNG">
+        <img width="540" height="320" src="Images/system_block_diagram.PNG">
       </p>
 
     + #### Diagrama esquemático do sistema:
     
     <p align="center">
-     <img width="540" height="320" src="diagrams/colorful_schematic_diagram.PNG">
+     <img width="540" height="320" src="Images/colorful_schematic_diagram.PNG">
      </p>
      
 + ## Interface
@@ -53,7 +53,7 @@ Mode esteja ligado as próximas telas apresentam a configuração manual de aque
 escolher o seu duty cycle, só então é possível ir para a tela de configuração do status do driver (última tela).
 
     <p align="center">
-     <img width="540" height="320" src="diagrams/installation.jpeg">
+     <img width="540" height="320" src="Images/installation.jpeg">
      </p>
   
   
@@ -77,13 +77,13 @@ diferença entre o sinal de referência e o sinal de realimentação, é multipl
 proporcional (Kp) e aplicado a saída.
 
     <p align="center">
-      <img width="440" height="220" src="diagrams/proportional_controller.PNG">
+      <img width="440" height="220" src="Images/proportional_controller.PNG">
     </p>
 
    + #### Diagrama de blocos do controlador:
    
 <p align="center">
-<img width="540" height="320" src="diagrams/controller_block_diagram.PNG">
+<img width="540" height="320" src="Images/controller_block_diagram.PNG">
 </p>
 
 
