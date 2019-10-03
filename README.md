@@ -15,7 +15,7 @@ permanece aceso.
     + #### Diagrama esquemático do sistema:
     
     <p align="center">
-     <img width="540" height="320" src="colorful_schematic_diagram.PNG">
+     <img width="540" height="320" src="colorful_schematic_diagram.png">
      </p>
      
 + ## Interface
@@ -35,7 +35,7 @@ parâmetros do controlador e o valor de set point.
         + Ajustar o valor da saída do ventilador no modo manual (0...100%).
 
 <p align="center">
-  <img width="440" height="220" src="keyboard.PNG">
+  <img width="440" height="220" src="keyboard.png">
 </p>
 
 
@@ -52,9 +52,6 @@ configuração do status do driver (habilitado ou desabilitado), onde é possív
 Mode esteja ligado as próximas telas apresentam a configuração manual de aquecimento e resfriamento permitindo ligar um de cada vez e 
 escolher o seu duty cycle, só então é possível ir para a tela de configuração do status do driver (última tela).
 
-    <p align="center">
-     <img width="540" height="320" src="Images/installation.jpeg">
-     </p>
   
   
 + ## Periféricos
@@ -77,13 +74,13 @@ diferença entre o sinal de referência e o sinal de realimentação, é multipl
 proporcional (Kp) e aplicado a saída.
 
     <p align="center">
-      <img width="440" height="220" src="Images/proportional_controller.PNG">
+      <img width="440" height="220" src="Images/proportional_controller.png">
     </p>
 
    + #### Diagrama de blocos do controlador:
    
 <p align="center">
-<img width="540" height="320" src="Images/controller_block_diagram.PNG">
+<img width="540" height="320" src="Images/controller_block_diagram.png">
 </p>
 
 
