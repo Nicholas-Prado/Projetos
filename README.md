@@ -9,7 +9,7 @@ permanece aceso.
     + #### Diagrama de blocos do sistema:
 
       <p align="center">
-        <img width="540" height="320" src="Images/system_block_diagram.PNG">
+        <img width="540" height="320" src="system_block_diagram.png">
       </p>
 
     + #### Diagrama esquemático do sistema:
