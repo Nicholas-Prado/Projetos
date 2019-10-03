@@ -35,7 +35,7 @@ parâmetros do controlador e o valor de set point.
         + Ajustar o valor da saída do ventilador no modo manual (0...100%).
 
 <p align="center">
-  <img width="440" height="220" src="Images/keyboard.png">
+  <img width="440" height="220" src="keyboard.png">
 </p>
 
 
