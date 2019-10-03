@@ -9,13 +9,13 @@ permanece aceso.
     + #### Diagrama de blocos do sistema:
 
       <p align="center">
-        <img width="540" height="320" src="system_block_diagram.png">
+        <img width="540" height="320" src="Images/system_block_diagram.png">
       </p>
 
     + #### Diagrama esquemático do sistema:
     
     <p align="center">
-     <img width="540" height="320" src="colorful_schematic_diagram.png">
+     <img width="540" height="320" src="Images/colorful_schematic_diagram.png">
      </p>
      
 + ## Interface
@@ -35,7 +35,7 @@ parâmetros do controlador e o valor de set point.
         + Ajustar o valor da saída do ventilador no modo manual (0...100%).
 
 <p align="center">
-  <img width="440" height="220" src="keyboard.png">
+  <img width="440" height="220" src="Images/keyboard.png">
 </p>
 
 
